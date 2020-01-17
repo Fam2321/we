@@ -1,1 +1,1 @@
-fun foo() = 105
+fun foo() = 10
