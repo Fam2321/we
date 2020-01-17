@@ -7,12 +7,8 @@ fun factor(num:Int):String{
         while (num1 % k == 0){
             out.add(k)
             num1 /= k
-            //throw ArithmeticException()
         }
         k++;
     }
     return out.toString()
-
-    //return out;
-
 }

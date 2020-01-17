@@ -12,12 +12,19 @@ class FactorrKtTest {
         //assertEquals(1,numbers)
 
     }
-
    /* @Test
     fun checkfactor(){
-
-
-
     }*/
 
+    /*@Test
+    fun PrimeFactor() {
+        val numbers: String = factor(100)
+        var i = 4
+        while(true) {
+            var mod =factor().out[4] % i
+            if () {
+
+            }
+        }
+    }*/
 }
