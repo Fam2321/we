@@ -1,4 +1,3 @@
-
 fun factor(num:Int):String{
     var num1 = num
     val out = mutableListOf(1)
